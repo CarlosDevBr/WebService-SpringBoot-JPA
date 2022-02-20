@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.webservice.entities.Product;
-import com.example.webservice.entities.Product;
 import com.example.webservice.services.ProductService;
 
 @RestController
